@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Web-Owl/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Web-Owl/hexlet-js#readme"
+  "homepage": "https://github.com/Web-Owl/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
