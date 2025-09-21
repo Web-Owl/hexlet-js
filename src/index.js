@@ -1,5 +1,5 @@
-import _ from "lodash";
+import _ from 'lodash'
 
 export default () => {
-  console.log(_.last(["one", "two", "three"]));
-};
+  console.log(_.last(['one', 'two', 'three']))
+}
